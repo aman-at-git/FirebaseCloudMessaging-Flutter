@@ -1,16 +1,19 @@
-# fcm
+# FCM (Firebase Cloud Messaging)
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a flutter project with Firebase Cloud Messaging enabled.
+It lets you create notification from inside of the app to any of the device token.
+Use it to implement firebase cloud messaging in your flutter project.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+❤️ for Coders and Coding 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+PS:- Quick tip, you cant use firebase functions without upgrading your Firebase plan to Blaze(Pay as you go) as of 15-03-21.
+
+
+For resouces, consider checking:-   (https://pub.dev/packages/firebase_messaging)
+This is all you are going to need to develop it.
